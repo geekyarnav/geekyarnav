@@ -1,16 +1,29 @@
-### Hi there 👋
+##Hi there 👋
 
-<!--
-**geekyarnav/geekyarnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###I am Arnav Rastogi,
+A Full Stack Developer who is intrested in working on Websites,Android Apps,IOS Apps & Progressive web apps.
+I am passionate tech problem solver motivated by the desire to help and grow successful businesses. I uses my tech knowledge to offer pragmatic development solutions that are client and customer focused.I worked for many companies as a Full-Stack,React,Django Developer.I am workholic and what i do and perform is well organized with full sicerity. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 ##Expertise
+- [x]React.js & React Native
+- [x]Javascript
+- [x]Django
+- [x]Python
+- [x]REST-API
+- [x]MySQL + SQlite + PostgreSQL
+- [x]Git
+- [x]HTML + CSS + SASS 
+- [x]UI/UX Designer
+
+- ⚡ ##I’m currently learning ...
+*Aws
+
+- 📫 ##How to reach me: ...
+*Linkedin: https://www.linkedin.com/in/arnavrastogi/ 
+*Gmail: https://www.linkedin.com/in/arnavrastogi/
+*Github: https://github.com/geekyarnav
+*Instagram: https://www.instagram.com/geeky_arnav/
+*Facebook: https://www.facebook.com/arnav.oberoi/
+
 -->
