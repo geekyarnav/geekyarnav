@@ -5,6 +5,7 @@ I am passionate tech problem solver motivated by the desire to help and grow suc
 
 
 - 🔭 Expertise
+-------------------------------------
 - React.js & React Native
 - Javascript
 - Django
@@ -15,10 +16,10 @@ I am passionate tech problem solver motivated by the desire to help and grow suc
 - HTML + CSS + SASS 
 - UI/UX Designer
 
+---------------------------------------
 
-
-- 📫 How to reach me:
-
+- 📫 How to reach me
+---------------------------------------
 -Linkedin: https://www.linkedin.com/in/arnavrastogi/ 
 -Gmail: https://www.linkedin.com/in/arnavrastogi/
 -Github: https://github.com/geekyarnav
