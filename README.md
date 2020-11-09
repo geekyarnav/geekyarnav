@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Arnav Rastogi,a Full Stack Developer who is intrested in working on Websites,Android Apps,IOS Apps & Progressive web apps.
-I am passionate tech problem solver motivated by the desire to help and grow successful businesses. I uses my tech knowledge to offer pragmatic development solutions that are client and customer focused.I worked for many companies as a Full-Stack,React,Django Developer.I am workholic and what i do and perform is well organized with full sicerity. 
+I am Arnav Rastogi,A Full Stack Developer who is intrested in working on Websites,Android Apps,IOS Apps & Progressive web apps.
+I am passionate tech problem solver motivated by the desire to help and grow successful businesses. I uses my tech knowledge to offer pragmatic development solutions that are client and customer focused.I worked for many companies as a Full-Stack,React,Django Developer.I am workholic and what i do and perform is well organized with full sincerity. 
 
 
 - 🔭 **Expertise:**
