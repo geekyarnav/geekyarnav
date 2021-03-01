@@ -21,7 +21,7 @@ I am a passionate tech problem solver motivated by the desire to help and grow s
 - 📫 **How to reach me:**
 ---------------------------------------
 1. Linkedin: https://www.linkedin.com/in/arnavrastogi/ 
-2. Gmail: https://www.linkedin.com/in/arnavrastogi/
+2. Gmail: arastogi721@gmail.com
 3. Github: https://github.com/geekyarnav
 4. Instagram: https://www.instagram.com/geeky_arnav/
 5. Facebook: https://www.facebook.com/arnav.oberoi/
