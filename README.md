@@ -14,7 +14,7 @@ I am a passionate tech problem solver motivated by the desire to help and grow s
 - [x] Git
 - [x] MySQL + SQlite + PostgreSQL
 - [x] HTML + CSS + SASS 
-- [x] UI/UX Designer
+- [x] UI/UX Designer-> Adobe XD
 
 ---------------------------------------
 
