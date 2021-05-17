@@ -23,7 +23,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-geekyarnav-0077b5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavrastogi/)  	    [![Mail Badge](https://img.shields.io/badge/-geekyarnav-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/geeky_arnav/) [![Mail Badge](https://img.shields.io/badge/-geekyarnav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arastogi721@gmail.com)
   </div>
-  ---
+  
 
  **TECH STACK**
  
@@ -34,7 +34,7 @@
     <!-- <img src="./lamp.png" alt="Lamp stack" width="250" height="100" align='right'> -->
 </div>
 </br>
----
+
 
 <p align="center">
     <span><b>FRAMEWORKS</b></span>
