@@ -17,15 +17,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=geekyarnav.geekyarnav)
 
 ---
-<div style="text-align:center">
+
     
  📫 **HOW TO REACH ME:**
-  
+<div style="text-align:center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-geekyarnav-0077b5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavrastogi/)  	    [![Mail Badge](https://img.shields.io/badge/-geekyarnav-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/geeky_arnav/) [![Mail Badge](https://img.shields.io/badge/-geekyarnav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arastogi721@gmail.com)
   </div>
   
 
- **TECH STACK**
+ **TECH STACKS**
  
 <div style="text-align:center">
     <!-- <img src="http://erginous.co.in/images/internship/mern-stack-training.jpg" alt="Mern stack" width="250" height="100" align='left'> -->
