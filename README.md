@@ -31,7 +31,7 @@
     <!-- <img src="http://erginous.co.in/images/internship/mern-stack-training.jpg" alt="Mern stack" width="250" height="100" align='left'> -->
     <img src="http://erginous.co.in/images/internship/mern-stack-training.jpg" alt="Mern stack" width="250" height="100" align='center'>
     <img src="https://miro.medium.com/max/1000/1*AEDJAyoOruXO7cckyvO_Gw.png" alt="Lamp stack" width="250" height="100" align='center'>
-    <img src="./djangoreact.png" alt="djangoreact stack" width="250" height="100" align='right'>
+    <img src="./djangoreact.png" alt="djangoreact stack" width="250" height="100" align='center'>
 </div>
 </br>
 
