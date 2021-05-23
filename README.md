@@ -97,12 +97,12 @@
   
 ---
 
-🔭 **Most Used Lang:**
+<!-- 🔭 **Most Used Lang:**
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyarnav&count_private=true&theme=dracula">
 </p>
 
----
+--- -->
 
 🔭 **Github Stats:**
   ---
