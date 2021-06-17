@@ -9,9 +9,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=geekyarnav" alt="geekyarnav"/></a></p>
 
 
-<img align="right"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+<img align="right"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300" width="400">
 
-<div style="text-align:center">
+<div style="text-align:left">
     A <strong><a href="https://geeky-arnav.netlify.app/">Full Stack Developer</a></strong> who is interested in working on <strong>Websites,Web apps,SPA,Android & IOS Apps.</strong>
     I am a passionate tech problem solver motivated by the desire to help and grow successful businesses. I uses my tech knowledge to offer pragmatic development solutions that are client and customer focused. I worked for many companies as a <strong>Full-Stack,Frontend,Backend Developer.</strong>I am workholic and what i do and perform is well organized with full sincerity. 
 </div>
@@ -101,17 +101,8 @@
   </p>
   
 ---
-
-<!-- 🔭 **Most Used Lang:**
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyarnav&count_private=true&theme=dracula">
-</p>
-
---- -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyarnav&show_icons=true&locale=en&layout=compact" alt="geekyarnav" /></p>
 🔭 **Github Stats:**
   ---
 <div align="right">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyarnav&hide=contribs,prs&theme=tokyonight)
 </div>
