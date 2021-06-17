@@ -1,14 +1,19 @@
 <!-- Start -->
 <div style="text-align:center">
-    <span><b>Hey, there</b></span>
-     <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+    <h1 align="center">Hi 👋
+       <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+        , I'm Arnav Rastogi</h1>
 </div>
-<div style="text-align:center">
-     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="200" width="300">
-</div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=geekyarnav" alt="geekyarnav" />\</a> </p>
+
+
+<img align="right"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="200" width="400">
+
 <div style="text-align:center">
     A <strong><a href="https://geeky-arnav.netlify.app/">Full Stack Developer</a></strong> who is interested in working on <strong>Websites,Web apps,SPA,Android & IOS Apps.</strong>
-    I am a passionate tech problem solver motivated by the desire to help and grow successful businesses. I uses my tech knowledge to offer pragmatic development solutions that are client and customer focused.I worked for many companies as a <strong>Full-Stack,Frontend,Backend Developer.</strong>I am workholic and what i do and perform is well organized with full sincerity. 
+    I am a passionate tech problem solver motivated by the desire to help and grow successful businesses. I uses my tech knowledge to offer pragmatic development solutions that are client and customer focused. I worked for many companies as a <strong>Full-Stack,Frontend,Backend Developer.</strong>I am workholic and what i do and perform is well organized with full sincerity. 
 </div>
 </br>
 
