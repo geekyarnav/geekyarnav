@@ -108,10 +108,10 @@
 </p>
 
 --- -->
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyarnav&show_icons=true&locale=en&layout=compact" alt="geekyarnav" /></p>
 🔭 **Github Stats:**
   ---
-<div align="center">
+<div align="right">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyarnav&hide=contribs,prs&theme=tokyonight)
 </div>
