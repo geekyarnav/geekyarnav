@@ -103,6 +103,5 @@
 ---
 🔭 **Github Stats:**
   ---
-<div align="right">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyarnav&hide=contribs,prs&theme=tokyonight)
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyarnav&show_icons=true&locale=en" alt="geekyarnav" />
+</p>
