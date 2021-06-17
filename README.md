@@ -1,15 +1,15 @@
 <!-- Start -->
 <div style="text-align:center">
-    <h1 align="center">Hi 👋
+    <h1 align="center">Hey,
        <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-        , I'm Arnav Rastogi</h1>
+        I'm Arnav Rastogi</h1>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=geekyarnav" alt="geekyarnav" />\</a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=geekyarnav" alt="geekyarnav"/></a></p>
 
 
-<img align="right"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="200" width="400">
+<img align="right"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 <div style="text-align:center">
     A <strong><a href="https://geeky-arnav.netlify.app/">Full Stack Developer</a></strong> who is interested in working on <strong>Websites,Web apps,SPA,Android & IOS Apps.</strong>
