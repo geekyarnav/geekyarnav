@@ -19,7 +19,8 @@
 
 **Profile Visits** 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=geekyarnav.geekyarnav)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=geekyarnav.geekyarnav) -->
+![Visitor Count](https://profile-counter.glitch.me/geekyarnav/count.svg)
 
 ---
 
